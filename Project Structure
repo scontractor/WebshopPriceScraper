@@ -1,0 +1,8 @@
+WebshopPriceScraper/
+│
+├── .gitignore               # Files to ignore in git
+├── README.md                # Project documentation
+├── scraper.py               # Main scraping logic
+├── requirements.txt         # Python dependencies
+└── config/
+    └── settings.py          # User-defined settings like user-agent
